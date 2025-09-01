@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './paginas/Login';
-//import Senha from './pages/Senha';
 //import Home from './pages/Home';
 import App from './App';
 
